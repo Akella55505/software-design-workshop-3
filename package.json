@@ -1,0 +1,23 @@
+{
+  "name": "software-design-workshop-3",
+  "version": "1.0.0",
+  "description": "Workshop 3 for software design 3-year course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akella55505/software-design-workshop-3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akella55505/software-design-workshop-3/issues"
+  },
+  "homepage": "https://github.com/Akella55505/software-design-workshop-3#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
